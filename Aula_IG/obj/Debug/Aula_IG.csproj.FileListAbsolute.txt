@@ -1,0 +1,9 @@
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\bin\Debug\Aula_IG.exe.config
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\bin\Debug\Aula_IG.exe
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\bin\Debug\Aula_IG.pdb
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.csprojResolveAssemblyReference.cache
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.Properties.Resources.resources
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.csproj.GenerateResource.Cache
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.exe
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.pdb
+C:\Users\Padrão\Desktop\PA\InterfaceGrafica\Aula_IG\Aula_IG\obj\Debug\Aula_IG.Form1.resources
